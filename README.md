@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Digital-pimp
-- 👀 I’m interested in pimping dem binary hoes
-- 🌱 I’m currently learning python pimpin
+- 👋 Hi, I’m Ghassan
+- 👀 Where is Data? 
+- 🌱 Python
 - 📫 How to reach me: Ghassanxiom@gmail.com
 
 <!---
